@@ -1,0 +1,15 @@
+C:\Users\aandr\source\repos\FoodTrack2\FoodTrack.Services\bin\Debug\net5.0\FoodTrack.Services.deps.json
+C:\Users\aandr\source\repos\FoodTrack2\FoodTrack.Services\bin\Debug\net5.0\FoodTrack.Services.dll
+C:\Users\aandr\source\repos\FoodTrack2\FoodTrack.Services\bin\Debug\net5.0\FoodTrack.Services.pdb
+C:\Users\aandr\source\repos\FoodTrack2\FoodTrack.Services\bin\Debug\net5.0\FoodTrack.Core.dll
+C:\Users\aandr\source\repos\FoodTrack2\FoodTrack.Services\bin\Debug\net5.0\FoodTrack.Core.pdb
+C:\Users\aandr\source\repos\FoodTrack2\FoodTrack.Services\obj\Debug\net5.0\FoodTrack.Services.csproj.AssemblyReference.cache
+C:\Users\aandr\source\repos\FoodTrack2\FoodTrack.Services\obj\Debug\net5.0\FoodTrack.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aandr\source\repos\FoodTrack2\FoodTrack.Services\obj\Debug\net5.0\FoodTrack.Services.AssemblyInfoInputs.cache
+C:\Users\aandr\source\repos\FoodTrack2\FoodTrack.Services\obj\Debug\net5.0\FoodTrack.Services.AssemblyInfo.cs
+C:\Users\aandr\source\repos\FoodTrack2\FoodTrack.Services\obj\Debug\net5.0\FoodTrack.Services.csproj.CoreCompileInputs.cache
+C:\Users\aandr\source\repos\FoodTrack2\FoodTrack.Services\obj\Debug\net5.0\FoodTrack.Services.csproj.CopyComplete
+C:\Users\aandr\source\repos\FoodTrack2\FoodTrack.Services\obj\Debug\net5.0\FoodTrack.Services.dll
+C:\Users\aandr\source\repos\FoodTrack2\FoodTrack.Services\obj\Debug\net5.0\refint\FoodTrack.Services.dll
+C:\Users\aandr\source\repos\FoodTrack2\FoodTrack.Services\obj\Debug\net5.0\FoodTrack.Services.pdb
+C:\Users\aandr\source\repos\FoodTrack2\FoodTrack.Services\obj\Debug\net5.0\ref\FoodTrack.Services.dll

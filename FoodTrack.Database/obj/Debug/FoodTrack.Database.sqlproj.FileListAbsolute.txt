@@ -1,0 +1,6 @@
+C:\Users\aandr\source\repos\FoodTrack2\FoodTrack.Database\bin\Debug\FoodTrack.Database.dacpac
+C:\Users\aandr\source\repos\FoodTrack2\FoodTrack.Database\bin\Debug\FoodTrack.Database.dll
+C:\Users\aandr\source\repos\FoodTrack2\FoodTrack.Database\bin\Debug\FoodTrack.Database.pdb
+C:\Users\aandr\source\repos\FoodTrack2\FoodTrack.Database\obj\Debug\FoodTrack.Database.sqlproj.AssemblyReference.cache
+C:\Users\aandr\source\repos\FoodTrack2\FoodTrack.Database\obj\Debug\FoodTrack.Database.dll
+C:\Users\aandr\source\repos\FoodTrack2\FoodTrack.Database\obj\Debug\FoodTrack.Database.pdb

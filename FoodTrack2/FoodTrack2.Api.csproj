@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FoodTrack.DataAccess\FoodTrack.DataAccess.csproj" />
+    <ProjectReference Include="..\FoodTrack.Repository\FoodTrack.Repository.csproj" />
+    <ProjectReference Include="..\FoodTrack.Services\FoodTrack.Services.csproj" />
+  </ItemGroup>
+
+</Project>
