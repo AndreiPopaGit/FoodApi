@@ -1,6 +1,6 @@
-# FoodTrack2
+# FoodTrack
 
-FoodTrack2 is a comprehensive .NET-based application designed to efficiently manage and track food-related data. The project follows a modular architecture, organized into several core components to ensure scalability, maintainability, and separation of concerns.
+FoodTrack is a comprehensive .NET-based application designed to efficiently manage and track food-related data. The project follows a modular architecture, organized into several core components to ensure scalability, maintainability, and separation of concerns.
 
 ## Project Structure
 
